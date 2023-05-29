@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shujja1
 - 👀 I’m interested in Programming..
-- 🌱 I’m currently learning OOP/C++...
 - 📫 You can Reach me @ shujjaehtisham@gmail.com...
 - ----> You are not the only one cursed with knowledge <----
 <!---
